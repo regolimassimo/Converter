@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="celsius">celsius</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="convert">convert</string>
+    <string name="temperature">Temperature</string>
+    <string name="meter">meter</string>
+    <string name="mile" translatable="false">mi</string>
+    <string name="distance">distance</string>
+    <string name="distances">Distances</string>
+    <string name="weights">Weights</string>
+
+</resources>
